@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import backgroundImage from "./assets/Designer.jpeg"; // Correct path
+import backgroundImage from "./assets/im.jpg"; // Correct path
 
 function App() {
   const [city, setCity] = useState("");
