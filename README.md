@@ -14,6 +14,8 @@ A simple and visually appealing weather application that fetches real-time weath
 
 📸 Screenshots
 
+![alt text](<Screenshot (32)-1.png>)
+
 
 ⚙️ Usage
 
